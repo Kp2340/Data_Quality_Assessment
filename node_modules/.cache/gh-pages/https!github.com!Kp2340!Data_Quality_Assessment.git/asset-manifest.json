@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Data_Quality_Assessment/static/css/main.e6c13ad2.css",
+    "main.js": "/Data_Quality_Assessment/static/js/main.f36513fa.js",
+    "static/js/453.8ab44547.chunk.js": "/Data_Quality_Assessment/static/js/453.8ab44547.chunk.js",
+    "index.html": "/Data_Quality_Assessment/index.html",
+    "main.e6c13ad2.css.map": "/Data_Quality_Assessment/static/css/main.e6c13ad2.css.map",
+    "main.f36513fa.js.map": "/Data_Quality_Assessment/static/js/main.f36513fa.js.map",
+    "453.8ab44547.chunk.js.map": "/Data_Quality_Assessment/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f36513fa.js"
+  ]
+}
